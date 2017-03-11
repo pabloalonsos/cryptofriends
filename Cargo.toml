@@ -1,0 +1,7 @@
+[package]
+authors = ["pabloalonso <pabloalonsos.eu@gmail.com>"]
+name = "cryptofriends"
+version = "0.1.0"
+
+[dependencies]
+rustc-serialize = "0.3.22"
